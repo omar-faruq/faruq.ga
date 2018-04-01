@@ -1,0 +1,2 @@
+# faruq.ga
+My website
